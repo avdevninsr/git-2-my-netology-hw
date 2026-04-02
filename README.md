@@ -75,8 +75,8 @@ To gitlab.com:netology-group2/devops-netology.git
 <img src="img/%D0%A2%D0%B5%D0%B3%D0%B8%20%D0%93%D0%B8%D1%82%D0%9B%D0%B0%D0%B1.png" alt="Рисунок 2.4" width="auto" height="auto"></br>
 Рисунок 2.4. Теги в веб интерфейсе GitLab.</br>
 
-[Теги в GitHub](https://github.com/avdevninsr2/devops-netology/tags)
-[Теги в GitLab](https://gitlab.com/netology-group2/devops-netology/-/tags)
+[Теги в GitHub](https://github.com/avdevninsr2/devops-netology/tags)</br>
+[Теги в GitLab](https://gitlab.com/netology-group2/devops-netology/-/tags)</br>
 
 ## Задание 3
 
@@ -121,8 +121,8 @@ f84fd84 Add gitignore
 <img src="img/%D0%93%D1%80%D0%B0%D1%84%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%20%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%B2%20%D0%93%D0%B8%D1%82%D0%9B%D0%B0%D0%B1.png" alt="Рисунок 3.7" width="auto" height="auto"></br>
 Рисунок 3.7. Обновлённая схема коммитов.</br>
 
-[Схема коммитов репозитория в GitHub](https://github.com/avdevninsr2/devops-netology/network)
-[Схема коммитов репозитория в GitLab](https://gitlab.com/netology-group2/devops-netology/-/network/main?ref_type=heads)
+[Схема коммитов репозитория в GitHub](https://github.com/avdevninsr2/devops-netology/network)</br>
+[Схема коммитов репозитория в GitLab](https://gitlab.com/netology-group2/devops-netology/-/network/main?ref_type=heads)</br>
 
 ## Задание 4
 
