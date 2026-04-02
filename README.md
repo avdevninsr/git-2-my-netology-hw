@@ -1,5 +1,7 @@
 # Домашнее задание к занятию «Основы Git»
 
+[Ссылка на основной репозиторий в GitHub](https://github.com/avdevninsr2/devops-netology)
+
 ## Задание 1
 Регистрация аккаунта на GitLab приведена на рисунке 1.1.</br>
 
@@ -21,6 +23,8 @@
 
 <img src="img/GitLab_commits.png" alt="Рисунок 1.5" width="auto" height="auto"></br>
 Рисунок 1.5. Коммиты на GitLab.</br>
+
+[Ссылка на репозиторий в GitLab](https://gitlab.com/netology-group2/devops-netology).
 
 ## Задание 2
 Создание легковесного тега продемонстрировано на рисунке 2.1.</br>
@@ -71,6 +75,9 @@ To gitlab.com:netology-group2/devops-netology.git
 <img src="img/%D0%A2%D0%B5%D0%B3%D0%B8%20%D0%93%D0%B8%D1%82%D0%9B%D0%B0%D0%B1.png" alt="Рисунок 2.4" width="auto" height="auto"></br>
 Рисунок 2.4. Теги в веб интерфейсе GitLab.</br>
 
+[Теги в GitHub](https://github.com/avdevninsr2/devops-netology/tags)
+[Теги в GitLab](https://gitlab.com/netology-group2/devops-netology/-/tags)
+
 ## Задание 3
 
 Из - за технических сложностей схема коммитов репозитория на GitHub не обновляется, (на GitLab обновилась), кроме того из - за конфликта веток на GitHub ветку fix пришлось полностью удалять и пересоздавать (на GitLab таких проблем не было), поэтому хеши коммитов на скриншотах и в репозиториях могут не совпадать.</br>
@@ -114,6 +121,9 @@ f84fd84 Add gitignore
 <img src="img/%D0%93%D1%80%D0%B0%D1%84%20%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%20%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%B2%20%D0%93%D0%B8%D1%82%D0%9B%D0%B0%D0%B1.png" alt="Рисунок 3.7" width="auto" height="auto"></br>
 Рисунок 3.7. Обновлённая схема коммитов.</br>
 
+[Схема коммитов репозитория в GitHub](https://github.com/avdevninsr2/devops-netology/network)
+[Схема коммитов репозитория в GitLab](https://gitlab.com/netology-group2/devops-netology/-/network/main?ref_type=heads)
+
 ## Задание 4
 
 В качестве IDE для работы с Git была выбрана VS Code, так как PyCharm на ПК у меня нет, я никогда ей не пользовался и не вижу смысла "плодить" IDE. Кроме того в лекциях используется именно VS Code.</br>
@@ -140,3 +150,5 @@ f84fd84 Add gitignore
 
 <img src="img/11.PNG" alt="Рисунок 4.5" width="auto" height="auto"></br>
 Рисунок 4.5. Пуш репозитория на GitHub.</br>
+
+В задании с IDE использовался другой репозиторий, так как к хостовой ОС Windows привязан основной аккаунт на GitHub avdevninsr.
